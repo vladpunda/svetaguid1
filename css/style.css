@@ -260,7 +260,10 @@ main {
   font-weight: 500;
   font-family: "Rubik";
 }
-
+.metod__buro {
+  text-align: center;
+  font-size: 28px;
+}
 .metod__wrapper {
   display: flex;
   flex-direction: column;
@@ -273,8 +276,8 @@ main {
   background: transparent;
   border: 1px solid #232323;
   position: relative;
-  font-size: 17px;
-  font-weight: 500;
+  font-size: 36px;
+  font-weight: 600;
   letter-spacing: 0.3em;
   font-family: "Montserrat", sans-serif;
   padding: 17px 34px 17px 39px;
@@ -428,11 +431,11 @@ main {
   .metod__modal__close {
     position: absolute;
     top: 2%;
-    left: 88%;
+    left: 90%;
   }
 
   .metod__title {
-    font-size: 22px;
+    font-size: 40px;
     font-weight: 500;
   }
   .metod__modal-item {
